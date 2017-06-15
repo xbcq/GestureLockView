@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <declare-styleable name="GestureLockView">
+            <attr name="cicleRadius" format="dimension"/>
+            <attr name="cicleWidth" format="dimension"/>
+            <attr name="MylineWidth" format="dimension"/>
+            <attr name="innerRadius" format="dimension"/>
+            <attr name="bginnerRadius" format="dimension"/>
+            <attr name="cicleNormal" format="color"/>
+            <attr name="cicleSelect" format="color"/>
+            <attr name="cicleError" format="color"/>
+            <attr name="cicleSpace" format="color"/>
+            <attr name="bgCicleColor" format="color"/>
+        </declare-styleable>
+</resources>
